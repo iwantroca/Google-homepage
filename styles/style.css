@@ -115,6 +115,9 @@ main {
 
   .footer nav {
     flex-wrap: wrap;
-    justify-content: center;
+    align-content: center;
+  }
+  .footer li {
+    padding: 5px;
   }
 }
